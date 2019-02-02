@@ -1,0 +1,24 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "An app that finds friends based on similar interests!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanOrlovsky/FriendFinder.git"
+  },
+  "author": "Dan Orlovsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanOrlovsky/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/DanOrlovsky/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.4"
+  }
+}
